@@ -1,0 +1,44 @@
+body{
+	padding-top: 50px;
+}
+
+.linhaCinza {
+    background: gray;
+}
+
+.linhaPersonalizada {
+    background: red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bg-color-padding p {
+    padding: 15px;
+}
+
+#carousel-home {
+	height: 550px;
+	margin-bottom: 10px;
+}
+
+#carousel-home img {
+	height: 550px;
+	width: 100%;
+}
+
+nav {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#carousel-home.carousel-caption h1 {
+	font-family: "Oswald";
+	letter-spacing: 8px;
+	font-size: 63px;
+}
+
+#carousel-home.carousel-caption h3 {
+	font-family: "Oswald";
+	letter-spacing: 4px;
+	font-size: 43px;
+}
